@@ -1,3 +1,4 @@
+
 .card-container{
     display: flex;
     flex-wrap: wrap;
@@ -17,6 +18,7 @@
 }
 .card-title{
     margin-bottom: 1rem;
+    font-size: 25px;
 }
 .card-reviews{
     margin-bottom: 1rem;

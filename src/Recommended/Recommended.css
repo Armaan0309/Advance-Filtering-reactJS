@@ -1,0 +1,30 @@
+*{
+    font-family: 'Markazi Text';
+    font-weight: 600;
+}
+.Recommended-flex {
+  display: flex;
+  margin-left: 20rem;
+}
+.Recommended-title {
+  margin-left: 20rem;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 50px;
+  /* font-family: sans-serif; */
+}
+.btns {
+  padding: 10px 20px;
+  margin-right: 6px;
+  background: transparent;
+  border: none;
+  border: 0.6px solid #ccc;
+  border-radius: 8px;
+  color: #323232;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 300;
+}
+.btns:hover {
+  border: 0.6px solid #000000;
+}

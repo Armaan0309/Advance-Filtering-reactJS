@@ -16,6 +16,7 @@ input{
     border-radius: 8px;
     position: relative;
     width: 15rem;
+    font-size: 18px;
 }
 .nav-icons{
     width: 1.5rem;
